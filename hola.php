@@ -1,7 +1,6 @@
 
 <?php
-// echo "hola Fran5 y An3"; // Por que lo comento?
+// Versión: vGaby
 
-// Un comentario guapal de la muerte
+// echo "hola Fran5 y An3";
 ?>
-esto es en el master
